@@ -1,5 +1,7 @@
 # conway-s-game-of-life
 
+https://github.com/StanislavPetrovV for better understanding
+
 conway's game of life:
   make sure you have Python installed
   then do the following in cmd:
